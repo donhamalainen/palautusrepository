@@ -25,7 +25,7 @@ function Statistics(props) {
   const neutral = props.neutral
   const all = bad + good + neutral
   const average =  (good - bad) / all
-  const positive = (good / all) * 100
+  const positive = 100 * (good / all) 
   return (
     <>
       <h2>Statistics</h2>
