@@ -1,1 +1,1 @@
-Osan 0 tehtävien vastaukset
+# FullStackOpen 2022 part 0
